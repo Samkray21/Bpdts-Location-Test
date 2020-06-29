@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba08b0e7-545d-4464-86a4-f43c2e6aae90" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="157" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Location" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\sakra\Downloads\Location\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dj9h31arc1CtWijKqIROM7fOWs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/bpdts/location" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BpdtsConnectorTest.testGetAllUsers (1)">
+    <configuration name="BpdtsConnectorTest.testGetAllUsers (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Location" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bpdts.location.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bpdts.location" />
+      <option name="MAIN_CLASS_NAME" value="com.bpdts.location.BpdtsConnectorTest" />
+      <option name="METHOD_NAME" value="testGetAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BpdtsConnectorTest.testGetAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Location" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BpdtsConnectorTest" />
+      <option name="METHOD_NAME" value="testGetAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistanceServiceImplTest.testGetAllUsers (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Location" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bpdts.location.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bpdts.location" />
+      <option name="MAIN_CLASS_NAME" value="com.bpdts.location.DistanceServiceImplTest" />
+      <option name="METHOD_NAME" value="testGetAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistanceServiceImplTest.testGetAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Location" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DistanceServiceImplTest" />
+      <option name="METHOD_NAME" value="testGetAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistanceServiceImplTest.testParse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Location" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DistanceServiceImplTest" />
+      <option name="METHOD_NAME" value="testParse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BpdtsConnectorTest.testGetAllUsers (1)" />
+        <item itemvalue="JUnit.DistanceServiceImplTest.testGetAllUsers (1)" />
+        <item itemvalue="JUnit.DistanceServiceImplTest.testGetAllUsers" />
+        <item itemvalue="JUnit.BpdtsConnectorTest.testGetAllUsers" />
+        <item itemvalue="JUnit.DistanceServiceImplTest.testParse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sakra\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba08b0e7-545d-4464-86a4-f43c2e6aae90" name="Default Changelist" comment="" />
+      <created>1592927750152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592927750152</updated>
+      <workItem from="1592927753554" duration="120124000" />
+    </task>
+    <task id="LOCAL-00001" summary="Version 1 Bpdts Location test">
+      <created>1593433429758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593433429758</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated .gitignore file ignoring all IDE setting files">
+      <created>1593435527969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593435527969</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Version 1 Bpdts Location test" />
+    <MESSAGE value="Updated .gitignore file ignoring all IDE setting files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated .gitignore file ignoring all IDE setting files" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Location$SampleTest_shouldReturntrue.ic" NAME="SampleTest.shouldReturntrue Coverage Results" MODIFIED="1593278520811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Location$SampleTest_testGetAllUsers.ic" NAME="DistanceServiceImplTest.testGetAllUsers Coverage Results" MODIFIED="1593432009439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Location$DistanceServiceImplTest_testGetAllUsers__1_.ic" NAME="DistanceServiceImplTest.testGetAllUsers (1) Coverage Results" MODIFIED="1593432627409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bpdts.location.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Location$SampleTest.ic" NAME="SampleTest Coverage Results" MODIFIED="1593343583586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Location$BpdtsConnectorTest_testGetAllUsers__1_.ic" NAME="BpdtsConnectorTest.testGetAllUsers (1) Coverage Results" MODIFIED="1593432649277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bpdts.location.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Location$SampleTest_shouldReturnCircleArea.ic" NAME="SampleTest.shouldReturnCircleArea Coverage Results" MODIFIED="1593280627336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Location$SampleTest_testCheckCoordinate.ic" NAME="SampleTest.testCheckCoordinate Coverage Results" MODIFIED="1593294588042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Location$BpdtsConnectorTest_testGetAllUsers.ic" NAME="BpdtsConnectorTest.testGetAllUsers Coverage Results" MODIFIED="1593431976534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Location$SampleTest_testWithinFiftyOfLondon.ic" NAME="SampleTest.testWithinFiftyOfLondon Coverage Results" MODIFIED="1593333670223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Location$SampleTest_testParse.ic" NAME="SampleTest.testParse Coverage Results" MODIFIED="1593296314792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
